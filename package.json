@@ -1,0 +1,17 @@
+{
+  "name": "Expressjs_assignment_2",
+  "version": "1.0.0",
+  "description": "bi express.js project number two",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Rutvik Ramteke",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
